@@ -13,7 +13,4 @@ while True:
   </a>
 </p>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ![](https://komarev.com/ghpvc/?username=AABarabanov)
