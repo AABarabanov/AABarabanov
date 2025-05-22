@@ -1,11 +1,10 @@
 <svg fill="none" viewBox="0 0 600 180" width="600" height="180">
   <foreignObject width="100%" height="100%">
-
       <style>
         .container {
           width: 100%;
           height: 180px;
-          background: #f7bfcf;
+          background: #1c2333;
           border-radius: 16px;
           display: flex;
           flex-direction: column;
