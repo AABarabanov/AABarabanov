@@ -16,6 +16,11 @@
         .intro {
           font-size: 1.2em;
           color: #FFFFFF;
+          padding-left: 250px;
+          align-self: flex-start;
+          width: 100%;
+          font-family: 'Courier New', monospace;
+          letter-spacing: 1px;
         }
         .name {
           font-size: 2.2em;
@@ -25,10 +30,9 @@
         }
       </style>
       <div class="container">
-        <span class="intro">https://aabarabanov.github.io/</span>
-        <span class="name">🐍 Some of My Projects </span>
+        <span class="intro">aabarabanov.github.io</span>
+        <span class="name">🐍 Some of My Projects</span>
       </div>
     </div>
   </foreignObject>
 </svg>
-
