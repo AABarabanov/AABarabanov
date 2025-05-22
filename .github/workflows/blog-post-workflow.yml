@@ -14,5 +14,5 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://habr.com/ru/rss/users/daniilshat/posts/?fl=ru"
+          feed_list: "https://habr.com/ru/rss/users/id3000/publications/articles/?fl=ru"
 
