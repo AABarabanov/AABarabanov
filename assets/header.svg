@@ -1,0 +1,31 @@
+<svg width="854" height="256" viewBox="0 0 854 256" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00C9FF"/>
+      <stop offset="100%" stop-color="#92FE9D"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Статичная версия волн -->
+  <path d="M0 0L 0 176Q 213.5 216 427 186T 854 211L 854 0 Z" fill="url(#linear)" opacity="0.4"/>
+  <path d="M0 0L 0 191Q 213.5 236 427 206T 854 216L 854 0 Z" fill="url(#linear)" opacity="0.4" transform="translate(0, 10)"/>
+  
+  <!-- Текст -->
+  <text x="427" y="100" 
+        font-family="Arial, sans-serif" 
+        font-size="75" 
+        font-weight="700" 
+        fill="#f7f5f5" 
+        text-anchor="middle">
+    Hello World!
+  </text>
+  
+  <text x="530" y="140" 
+        font-family="Arial, sans-serif" 
+        font-size="20" 
+        font-weight="500" 
+        fill="#f7f5f5" 
+        text-anchor="middle">
+    Welcome to my GitHub profile!
+  </text>
+</svg>
