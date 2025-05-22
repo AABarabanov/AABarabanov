@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="[https://aabarabanov.github.io/assets/header.svg](https://aabarabanov.github.io/assets/header.svg)" alt="Header">
+    <img src="https://aabarabanov.github.io/assets/header.svg" alt="Header">
   </a>
 </p>
 
