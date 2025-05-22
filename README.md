@@ -8,7 +8,7 @@ while True:
     code()
 ```
 <p align="center">
-  <a href="[https://your-link.com](https://aabarabanov.github.io/)">
+  <a href="[[https://your-link.com](https://aabarabanov.github.io)](https://aabarabanov.github.io)">
     <img src="assets/banner.svg" alt="Banner">
   </a>
 </p>
