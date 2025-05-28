@@ -17,7 +17,7 @@ while True:
       <img src="assets/banner.svg" alt="Banner" style="width: 56%;"> 
     </a>
     <a href="https://leetcode.com/giNEOnugbm">
-      <img src="https://leetcard.jacoblin.cool/giNEOnugbm" alt="LeetCode Stats" style="width: 41%;"> 
+      <img src="https://leetcard.jacoblin.cool/giNEOnugbm" alt="LeetCode Stats" style="width: 42%;"> 
     </a>
   </div>
 
