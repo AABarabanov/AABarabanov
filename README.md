@@ -12,13 +12,9 @@ while True:
     code()
 ```
 
-  <div align="center>
-    <a href="https://aabarabanov.github.io">
-      <img src="assets/banner.svg" alt="Banner" style="width: 56%;"> 
-    </a>
-    <a href="https://leetcode.com/giNEOnugbm">
-      <img src="https://leetcard.jacoblin.cool/giNEOnugbm" alt="LeetCode Stats" style="width: 42%;"> 
-    </a>
-  </div>
+<p align="center">
+  <a href="https://aabarabanov.github.io"><img src="assets/banner.svg" alt="Banner" width="400" style="display: block;"/></a>
+  <a href="https://leetcode.com/giNEOnugbm"><img src="https://leetcard.jacoblin.cool/giNEOnugbm" alt="LeetCode Stats" width="300" style="display: block;"/></a>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=AABarabanov)
