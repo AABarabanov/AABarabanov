@@ -14,10 +14,10 @@ while True:
 
   <div align="center>
     <a href="https://aabarabanov.github.io">
-      <img src="assets/banner.svg" alt="Banner" style="width: 55%;"> 
+      <img src="assets/banner.svg" alt="Banner" style="width: 57%;"> 
     </a>
     <a href="https://leetcode.com/giNEOnugbm">
-      <img src="https://leetcard.jacoblin.cool/giNEOnugbm" alt="LeetCode Stats" style="width: 41%;"> 
+      <img src="https://leetcard.jacoblin.cool/giNEOnugbm" alt="LeetCode Stats" style="width: 42%;"> 
     </a>
   </div>
 
