@@ -12,12 +12,16 @@ while True:
     coffee()
     code()
 ```
-<p align="center">
-  <a href="https://aabarabanov.github.io">
-    <img src="assets/banner.svg" alt="Banner">
-  </a>
-</p>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/giNEOnugbm)](https://leetcode.com/giNEOnugbm)
+<p align="center">
+  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+    <a href="https://aabarabanov.github.io" style="width: 55%; min-width: 250px;">
+      <img src="assets/banner.svg" alt="Banner" style="width: 55%;"> <!---->
+    </a>
+    <a href="https://leetcode.com/giNEOnugbm" style="width: 45%; min-width: 250px;">
+      <img src="https://leetcard.jacoblin.cool/giNEOnugbm" alt="LeetCode Stats" style="width: 41%;"> <!---->
+    </a>
+  </div>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=AABarabanov)
