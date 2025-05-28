@@ -18,4 +18,6 @@ while True:
   </a>
 </p>
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/giNEOnugbm)](https://leetcode.com/giNEOnugbm)
+
 ![](https://komarev.com/ghpvc/?username=AABarabanov)
