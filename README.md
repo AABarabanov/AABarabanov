@@ -1,9 +1,12 @@
 # Hi there 👋
 
-```python
-while True:
-    coffee()
-    code()
+```java
+public static void main(String[] args) {
+        while (true) {
+            coffee();
+            code();
+        }
+    }
 ```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
