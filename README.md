@@ -1,28 +1,12 @@
-<!--# Hi there 👋
-
-```java
-public static void main(String[] args) {
-        while (true) {
-            coffee();
-            code();
-        }
-    }
-```
-
-<div align="center">
+# Hi there 👋 I'm Alex
+### `BACKEND_DEV`
+<!--<div align="center">
+        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
+
+
 </div>-->
 
-# Hi there 👋
-
-<div align="center">
-        
-# I'm Alex B.
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
-### `BACKEND_DEV`
-
-</div>
-
 ```java
         while (true) {
             coffee();
@@ -30,9 +14,13 @@ public static void main(String[] args) {
         }
 ```
 
-## 🛠 **TECH STACK**
+## 🖥️ Tech Stack
+☕ **Java** • Spring Boot • JUnit5  
+🐍 **Python** • Django • Flask  
+🗄️ **SQL** • PostgreSQL • SQLite  
+🛠️ Git • Docker  
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<!--![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
@@ -45,7 +33,7 @@ public static void main(String[] args) {
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)-->
 
 ---
 
