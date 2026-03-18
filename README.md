@@ -24,12 +24,10 @@ public static void main(String[] args) {
 </div>
 
 ```java
-public static void main(String[] args) {
         while (true) {
             coffee();
             code();
         }
-    }
 ```
 
 ## 🛠 **TECH STACK**
