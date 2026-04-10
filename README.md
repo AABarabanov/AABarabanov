@@ -14,8 +14,8 @@
         }
 ```
 
-## 🖥️ Tech Stack
-☕ **Java** • Spring Boot • JUnit5  
+## Tech Stack
+☕ **Java** • Spring (Boot, Security, Data JPA) • JUnit5  
 🐍 **Python** • Django • Flask  
 🗄️ **SQL** • PostgreSQL • SQLite  
 🛠️ Git • Docker  
@@ -37,12 +37,15 @@
 
 
 
-## 📫 **Connect with me**
+## Contact
 
-[![MySite](https://img.shields.io/badge/MySite-6e44ff?style=for-the-badge)](https://aabarabanov.github.io)
-[![contacts](https://img.shields.io/badge/contacts-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://aabarabanov.github.io/contacts.html)
+<!--   [![MySite](https://img.shields.io/badge/MySite-6e44ff?style=for-the-badge)](https://aabarabanov.github.io)
+[![contacts](https://img.shields.io/badge/contacts-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://aabarabanov.github.io/contacts.html)   -->
 
+[aabarabanov.dev@gmail.com](mailto:aabarabanov.dev@gmail.com)  
+[t.me/a_a_barabanov](https://t.me/a_a_barabanov)  
 
+[![MySite](https://img.shields.io/badge/go_to_my_website-6e44ff?style=plastic)](https://aabarabanov.github.io)
 
 
 
